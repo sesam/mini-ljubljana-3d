@@ -65,7 +65,7 @@ var API_TOKEN = 'acl:consumerKey=772cd76134e664fb9ee7dbf0f99ae25998834efee29febe
 var SQRT3 = Math.sqrt(3);
 var DEGREE_TO_RADIAN = Math.PI / 180;
 
-var modelOrigin = mapboxgl.MercatorCoordinate.fromLngLat([139.7670, 35.6814]);
+var modelOrigin = mapboxgl.MercatorCoordinate.fromLngLat([14.503003501678888,46.05100646437833]);
 var modelScale = 1 / 2 / Math.PI / 6378137 / Math.cos(35.6814 * DEGREE_TO_RADIAN);
 
 var lang = getLang();
