@@ -1,14 +1,10 @@
-# Mini Tokyo 3D
+# Mini Ljubljana 3D
 
-A real-time 3D digital map of Tokyo's public transport system.
+Mercilessly cloned from https://github.com/nagix/mini-tokyo-3d
 
-![Screenshot](https://nagix.github.io/mini-tokyo-3d/images/screenshot1.jpg)
-
-![Screenshot](https://nagix.github.io/mini-tokyo-3d/images/screenshot2.jpg)
+A not-at-all-yet-real-time 3D digital map of Ljubljana's public bus-y system.
 
 ![Screenshot](https://nagix.github.io/mini-tokyo-3d/images/screenshot3.jpg)
-
-See a [Live Demo](https://nagix.github.io/mini-tokyo-3d).
 
 ## Usage
 
@@ -34,8 +30,8 @@ Hover a train | Show the train information
 
 ## About Data
 
-The data for this visualization are sourced from [Open Data Challenge for Public Transportation in Tokyo](https://tokyochallenge.odpt.org/en/), which includes station information and train timetables as well as real-time data such as train location information and status information of multiple railway lines in the Greater Tokyo area.
+The data for this visualization is (potentially) loaded from trola.si or some source that is alive enough.
 
 ## License
 
-Mini Tokyo 3D is available under the [Apache license 2.0](opensource.org/licenses/Apache-2.0).
+The [Apache license 2.0](opensource.org/licenses/Apache-2.0).
